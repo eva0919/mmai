@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+<svg width="77px" height="80px" viewBox="0 0 77 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
     <title>Group</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
-            <stop stop-color="#61AB7E" offset="0%"></stop>
-            <stop stop-color="#1B78A0" offset="100%"></stop>
-        </linearGradient>
-    </defs>
+    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="1024" sketch:type="MSArtboardGroup">
-            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-412.000000, -412.000000)">
-                <path d="M448,448 L448,576 L468,556 L468,448 L448,448 Z" id="Rectangle-5" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-                <path d="M556,448 L556,576 L576,556 L576,448 L556,448 Z" id="Rectangle-6" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" transform="translate(566.000000, 512.000000) scale(-1, -1) translate(-566.000000, -512.000000) "></path>
-                <path d="M476.872582,427.437554 L476.872582,518.307611 L496.872582,498.307611 L496.872582,427.437554 L476.872582,427.437554 Z" id="Rectangle-6" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" transform="translate(486.872582, 472.872582) scale(1, -1) rotate(-315.000000) translate(-486.872582, -472.872582) "></path>
-                <path d="M1023.09541,0.90459364 L-0.335477569,1024.33546" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            </g>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(-15.000000, -15.000000)">
+            <text id="A" sketch:type="MSTextLayer" transform="translate(53.000000, 37.000000) scale(1, -1) translate(-53.000000, -37.000000) " font-family="Heiti TC" font-size="72" font-weight="bold" fill="#000000">
+                <tspan x="26" y="62">A</tspan>
+            </text>
+            <text id="M" sketch:type="MSTextLayer" font-family="Heiti TC" font-size="72" font-weight="bold" fill="#1A91B5">
+                <tspan x="20" y="99">M</tspan>
+            </text>
+            <text id="I" sketch:type="MSTextLayer" transform="translate(103.500000, 75.000000) scale(1, -1) rotate(-90.000000) translate(-103.500000, -75.000000) " font-family="Adobe Fangsong Std" font-size="103" font-weight="normal" fill="#000000">
+                <tspan x="87" y="63">I</tspan>
+            </text>
+            <image id="Bitmap" sketch:type="MSBitmapLayer" x="35" y="44" width="37" height="51" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAzCAYAAAAQEcGFAAAAAXNSR0IArs4c6QAABHRJREFUWAnNmFtoFFcYgP+ZbDbJZnfHS0wIbTQ2eHuwRa0IUtsSND6sraImEh8q+pAqIlSEUopgWiwFRYoPQTFQEy2Vtg9N20xpm6olvhgQwQt4aZS1Es0mi1oT12Zvp/tPdiYzs+ec2ZlkNzsv55z/nP/8335zZndYgIK7iCAWGlPxH7ADVlxp8RQOGBGqjncTcfDOyq8KBQot4a0Tk8OVLSseQQHYIsKsW/JpFCSCUARDvR2fT7ct7wVoVA+40sZD/gPwK5RMJ1j5Dfk7tX4azg01zzu+UIP5br0XSJNqCWtr/em0pbdkgAJAW+15t+U7T97TzKRvkWEcD83O+9ny3JR/TrNojQEq37Zolky3bxxUsdUKLg07hx2aJSoU2pq7qPNgDlmUrUsvkbWm26SVpMZjQ75DkGNb0lW5R6MwdahQiq0FbbmzdZm8xSis4IlJE6U6jIUrc2arqk++pNYxti9BWB5YJ4aXBrYZJ9RRGczNhS2OpYRv8NyjNcKfYqJe+D6ftqTLPb+oH9vQkgQkV+/7EGPKrX3BsVW3rHO/IXkyg6vkTY8QnUHbIuF/ei68GEZwToEarYcfWLYiQc+RqXoSpd4e5hOXXN2rWNKgAATyZElgJ+0TAJRB3bL2ydviWCr2POwOL/5asaSDAog1QCfb1owjrbo3Cjo8P+rnWIKGmg/02bqvC76tsz+1H9An2upfJ0vLGWep2BPq/mfehqf6/XRQubMl/XUx401Ag2ioMljCuAHK6myd7vpmt7ZZtp17ZKGHRGppy2mWcJ0Jim8r+sDV1krJoRVUY5J88Xe1b27dG0K7zDEcZ0ChrZevBvbSFgN4wZYtjiVS8ri3v/rTYVodChTA8y1wgvUk2rHFs+TdOLyVBoQxKpS1rVPWZ+sxqWWdJZ4lDpRi6yTrk0Qf+NtScwJrHuPSj31drHnvRolpCXMYpnBKSL7gnK15Xaf24CrqhZZi4Tdoc+OWmqhnSV3PgXJui2fJvzW+XS3OarlQVrZq5TM7MjaOkFdYluLugWt3K/YMZOSYAhZQfFtj/W78l8RwtqSOPtlUQxvObEwGtAGnYwmFtkZr1n9M38MLtfKJCVtTYAnrZAEFMLLZdYwOBTDW79dsec9e+Za1rmhTZBNrzhzPCopvS4L5vx1thNvE5/sv9La5AI7j7qFrg9X7g7Q5WsxwHmgLJmJErD4uJybGul7q/XoMyp6VMF5PpKaR+berm4O6DG43S1O4B+dspf4NZAFFhYdBO0BYyQZU6mxdd9n+07a0uWg9FrJz2YKCViE+UrHqs2wLRIXB4MCclrvZrlfX2YNKZY3+XXFYTbZqS5uTti3hnrahFFuV71jacmrJGVQqa/SO19KWFJjlyJJjKLQ1xrGFlu7XbbZ9lhAIL/u3bzwPnnBsSe8WvZ9e5qhxDIW2IrNXZfz8xEjo2f3Xd95wRJNOcg6V2uDf/opPzMX99SL1p8a8jjeeFJTZ1lRYQlgXjzibObRV8lqlT9lsXfmX8FE2Wfw1/wN5Eoj9yX20AgAAAABJRU5ErkJggg=="></image>
         </g>
     </g>
 </svg>
